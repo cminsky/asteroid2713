@@ -9,4 +9,4 @@
 
 To analyze your own asteroid, you will need:
 * Its xy coordinates in the first image from each night/sequence (I did this by flipping through my images and seeing what moved faster than all the stars)
-* The intial xy coordinates and magnitudes of reference stars from each night/sequence (I did this by searching Vizier for the field of view around my asteroid and visually matching stars with known magnitudes to ones in my images)
+* The initial xy coordinates and magnitudes of reference stars from each night/sequence (I did this by searching Vizier for the field of view around my asteroid and visually matching stars with known magnitudes to ones in my images)
