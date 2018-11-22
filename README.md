@@ -1,5 +1,5 @@
 # asteroid
-For creating and analyzing an asteroid light curve from raw FITS data
+### For creating and analyzing an asteroid light curve from raw FITS data
 
 [DataReduction.ipynb](DataReduction.ipynb) is where I calibrated my images, correcting for readout signal, dark current, and imperfections in the optical path.
 
