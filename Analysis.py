@@ -91,6 +91,8 @@ class FitsImage:
             R1 = self.R1
             R2 = self.R2
             R3 = self.R3
+            
+        # courtesy of MIT 12.410 F18 lecture notes:
         apertures = CircularAperture(coords,r=R1)
         annulus = CircularAnnulus(coords, r_in=R2, r_out=R3)
         apers = [apertures, annulus]
@@ -99,6 +101,7 @@ class FitsImage:
         bkgSum = bkgMean*apertures.area()
         finalSum = photTable['aperture_sum_0'] - bkgSum
         photTable['residual_aperture_sum'] = finalSum
+        
         residuals = [n['residual_aperture_sum'] for n in photTable]
         return residuals
 
