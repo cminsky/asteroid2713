@@ -1,0 +1,12 @@
+@focus3 focus run.
+TheSkyX Build 11587
+Search step size: 100
+Initial exposure time: 8 seconds
+Samples per position: 1
+Temperature: 7.1C
+Filter Name: Open
+Filter Index: 0
+
+User Aborted. Focuser returning
+to original position.
+Focuser position is now 6976.

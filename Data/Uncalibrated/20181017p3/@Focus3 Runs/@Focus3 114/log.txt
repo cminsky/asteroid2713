@@ -1,0 +1,19 @@
+@focus3 focus run.
+TheSkyX Build 11587
+Search step size: 100
+Initial exposure time: 16 seconds
+Samples per position: 1
+Temperature: 7C
+Filter Name: Open
+Filter Index: 0
+
+@focus3 sample 0, 0, @6776 = 0.533814
+@focus3 sample 1, 0, @6876 = 0.531533
+@focus3 sample 2, 0, @6976 = 0.534089
+@focus3 sample 3, 0, @7076 = 0.534806
+@focus3 sample 4, 0, @7176 = 0.535542
+Data was inconsistent,
+could not find focus.
+Process terminated and returning
+to original focus position.
+Focuser position is now 6976.

@@ -1,0 +1,17 @@
+#HEIGHT=   256
+#WIDTH =   256
+#TIME  =  0.000000
+#          #
+#   1 X_IMAGE         Object position along x                         [pixel]
+#   2 Y_IMAGE         Object position along y                         [pixel]
+#   3 MAG_APER        Fixed aperture magnitude vector                 [mag]
+#   4 FWHM_IMAGE      FWHM assuming a gaussian core                   [pixel]
+#   5 FLAGS           Extraction flags
+#   6 CLASS_STAR      S/G classifier output
+#   7 ELONGATION      A_IMAGE/B_IMAGE
+#   8 ELLIPTICITY     1 - B_IMAGE/A_IMAGE
+#   9 A_IMAGE         Profile RMS along major axis                    [pixel]
+#  10 B_IMAGE         Profile RMS along minor axis                    [pixel]
+#  11 THETA_IMAGE     Position angle (CCW/x)                          [deg]
+   129.008    129.323  -0.8705     4.43 000  0.17    1.150    0.130     2.62     2.28 -39.3
+   129.586    228.399   2.7876     6.91 000  0.00    1.504    0.335     2.04     1.36 -34.4

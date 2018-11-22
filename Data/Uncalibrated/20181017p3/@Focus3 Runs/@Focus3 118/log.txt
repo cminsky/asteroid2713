@@ -1,0 +1,23 @@
+@focus3 focus run.
+TheSkyX Build 11587
+Search step size: 100
+Initial exposure time: 15 seconds
+Samples per position: 1
+Temperature: 4.7C
+Filter Name: Open
+Filter Index: 0
+
+@focus3 sample 0, 0, @6890 = 0.340178
+@focus3 sample 1, 0, @6990 = 0.332660
+@focus3 sample 2, 0, @7090 = 0.333527
+@focus3 sample 3, 0, @7190 = 0.329344
+@focus3 sample 4, 0, @7290 = 0.316834
+Ahead of focus, reversing direction.
+@focus3 sample 0, 0, @7290 = 0.323698
+@focus3 sample 1, 0, @7190 = 0.327578
+@focus3 sample 2, 0, @7090 = 0.323877
+@focus3 sample 3, 0, @6990 = 0.319601
+@focus3 sample 4, 0, @6890 = 0.324821
+User Aborted. Focuser returning
+to original position.
+Focuser position is now 7090.
